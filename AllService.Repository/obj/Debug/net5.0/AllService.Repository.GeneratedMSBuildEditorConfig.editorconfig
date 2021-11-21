@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = AllService.Repository
-build_property.ProjectDir = C:\Users\Ederson\source\repos\Allservice\AllService.Repository\
+build_property.ProjectDir = D:\source\Allservice\AllService.Repository\

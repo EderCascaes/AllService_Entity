@@ -12,7 +12,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\AllService.Interface\AllService.Interface.csproj" />
-    <ProjectReference Include="..\AllServiceDomain\AllServiceDomain.csproj" />
   </ItemGroup>
 
 </Project>

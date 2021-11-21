@@ -5,24 +5,11 @@
       "AllService.Interface/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "AllServiceDomain": "1.0.0"
-        },
         "compile": {
           "bin/placeholder/AllService.Interface.dll": {}
         },
         "runtime": {
           "bin/placeholder/AllService.Interface.dll": {}
-        }
-      },
-      "AllServiceDomain/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/AllServiceDomain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/AllServiceDomain.dll": {}
         }
       }
     }
@@ -32,17 +19,11 @@
       "type": "project",
       "path": "../AllService.Interface/AllService.Interface.csproj",
       "msbuildProject": "../AllService.Interface/AllService.Interface.csproj"
-    },
-    "AllServiceDomain/1.0.0": {
-      "type": "project",
-      "path": "../AllServiceDomain/AllServiceDomain.csproj",
-      "msbuildProject": "../AllServiceDomain/AllServiceDomain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "AllService.Interface >= 1.0.0",
-      "AllServiceDomain >= 1.0.0"
+      "AllService.Interface >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -51,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ederson\\source\\repos\\Allservice\\AllService.Repository\\AllService.Repository.csproj",
+      "projectUniqueName": "D:\\source\\Allservice\\AllService.Repository\\AllService.Repository.csproj",
       "projectName": "AllService.Repository",
-      "projectPath": "C:\\Users\\Ederson\\source\\repos\\Allservice\\AllService.Repository\\AllService.Repository.csproj",
+      "projectPath": "D:\\source\\Allservice\\AllService.Repository\\AllService.Repository.csproj",
       "packagesPath": "C:\\Users\\Ederson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ederson\\source\\repos\\Allservice\\AllService.Repository\\obj\\",
+      "outputPath": "D:\\source\\Allservice\\AllService.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ederson\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -72,11 +53,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Ederson\\source\\repos\\Allservice\\AllService.Interface\\AllService.Interface.csproj": {
-              "projectPath": "C:\\Users\\Ederson\\source\\repos\\Allservice\\AllService.Interface\\AllService.Interface.csproj"
-            },
-            "C:\\Users\\Ederson\\source\\repos\\Allservice\\AllServiceDomain\\AllServiceDomain.csproj": {
-              "projectPath": "C:\\Users\\Ederson\\source\\repos\\Allservice\\AllServiceDomain\\AllServiceDomain.csproj"
+            "D:\\source\\Allservice\\AllService.Interface\\AllService.Interface.csproj": {
+              "projectPath": "D:\\source\\Allservice\\AllService.Interface\\AllService.Interface.csproj"
             }
           }
         }

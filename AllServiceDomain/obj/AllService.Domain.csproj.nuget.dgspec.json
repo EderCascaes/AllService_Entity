@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\source\\Allservice\\AllService.WebApi_\\AllService.WebApi_.csproj": {}
+    "D:\\source\\Allservice\\AllServiceDomain\\AllService.Domain.csproj": {}
   },
   "projects": {
-    "D:\\source\\Allservice\\AllService.WebApi_\\AllService.WebApi_.csproj": {
+    "D:\\source\\Allservice\\AllServiceDomain\\AllService.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\Allservice\\AllService.WebApi_\\AllService.WebApi_.csproj",
-        "projectName": "AllService.WebApi_",
-        "projectPath": "D:\\source\\Allservice\\AllService.WebApi_\\AllService.WebApi_.csproj",
+        "projectUniqueName": "D:\\source\\Allservice\\AllServiceDomain\\AllService.Domain.csproj",
+        "projectName": "AllService.Domain",
+        "projectPath": "D:\\source\\Allservice\\AllServiceDomain\\AllService.Domain.csproj",
         "packagesPath": "C:\\Users\\Ederson\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\Allservice\\AllService.WebApi_\\obj\\",
+        "outputPath": "D:\\source\\Allservice\\AllServiceDomain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ederson\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,12 +39,6 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "dependencies": {
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.2.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -56,9 +50,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

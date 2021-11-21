@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\source\\Allservice\\AllService.WebApi_\\AllService.WebApi_.csproj": {}
+    "D:\\source\\Allservice\\AllService.WebApi_\\AllService.WebApi.csproj": {}
   },
   "projects": {
-    "D:\\source\\Allservice\\AllService.WebApi_\\AllService.WebApi_.csproj": {
+    "D:\\source\\Allservice\\AllService.WebApi_\\AllService.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\Allservice\\AllService.WebApi_\\AllService.WebApi_.csproj",
-        "projectName": "AllService.WebApi_",
-        "projectPath": "D:\\source\\Allservice\\AllService.WebApi_\\AllService.WebApi_.csproj",
+        "projectUniqueName": "D:\\source\\Allservice\\AllService.WebApi_\\AllService.WebApi.csproj",
+        "projectName": "AllService.WebApi",
+        "projectPath": "D:\\source\\Allservice\\AllService.WebApi_\\AllService.WebApi.csproj",
         "packagesPath": "C:\\Users\\Ederson\\.nuget\\packages\\",
         "outputPath": "D:\\source\\Allservice\\AllService.WebApi_\\obj\\",
         "projectStyle": "PackageReference",

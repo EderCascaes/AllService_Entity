@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\source\\Allservice\\AllService.Interface\\AllService.Interface.csproj",
-      "projectName": "AllService.Interface",
-      "projectPath": "D:\\source\\Allservice\\AllService.Interface\\AllService.Interface.csproj",
+      "projectUniqueName": "D:\\source\\Allservice\\AllServiceDomain\\AllService.Domain.csproj",
+      "projectName": "AllService.Domain",
+      "projectPath": "D:\\source\\Allservice\\AllServiceDomain\\AllService.Domain.csproj",
       "packagesPath": "C:\\Users\\Ederson\\.nuget\\packages\\",
-      "outputPath": "D:\\source\\Allservice\\AllService.Interface\\obj\\",
+      "outputPath": "D:\\source\\Allservice\\AllServiceDomain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ederson\\AppData\\Roaming\\NuGet\\NuGet.Config",

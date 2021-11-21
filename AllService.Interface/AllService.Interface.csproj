@@ -8,8 +8,4 @@
     <Folder Include="Repositories\" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\AllServiceDomain\AllServiceDomain.csproj" />
-  </ItemGroup>
-
 </Project>
