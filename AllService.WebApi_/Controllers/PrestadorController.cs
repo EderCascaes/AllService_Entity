@@ -1,16 +1,16 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using System;
 
-namespace AllService.WebApi_.Controllers
+namespace AllService.WebApi.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class PrestadorController : ControllerBase
+    public class PrestadorController : AppBaseController
     {
         
           //todo Ilogger
-        public PrestadorController()
-        {
-            
+        public PrestadorController(IServiceProvider serviceProvider): base(serviceProvider)
+        {            
         }
 
         [HttpPost]
