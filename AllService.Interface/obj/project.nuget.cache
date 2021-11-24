@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w4JjlZL3iDIFYai5+Y88F7V6/zoXIAItXC+MFR7lgTnezMEDzNeuF3GhG7/qdP/hqNSEu9mtedpaVk3N83/9zA==",
+  "dgSpecHash": "M6f7UNs6HGMdnabn3jQ1Kv2V4kaLCHieUSPnqPkXavla37fKzTp+AJCEnBFQ04FjZpgrQtjjWWBObGaPqFNg8A==",
   "success": true,
-  "projectFilePath": "D:\\Ederson\\source\\AllService\\AllService_Entity\\AllService.Interface\\AllService.Interface.csproj",
+  "projectFilePath": "D:\\source\\Allservice\\AllService.Interface\\AllService.Interface.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
