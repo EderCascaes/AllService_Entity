@@ -1,19 +1,13 @@
-using AllService.Repository;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using System;
-using System.Data.Common;
 
 namespace AllService.WebApi
 {
     public class Startup
     {
-       // public DbConnection DbConnection => new NpgsqlConnection();
-        
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -24,18 +18,9 @@ namespace AllService.WebApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            DependencyInjection.Register(services);
-
-            string mySqlConnection = Configuration.GetConnectionString("App");       
-
             services.AddControllers();
 
             services.AddSwaggerGen();
-
-            services.AddDbContextPool<ApplicationDbContext>(options => 
-                options.UseMySql(mySqlConnection,
-                ServerVersion.AutoDetect(mySqlConnection)));
-
 
         }
 

@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AllService.Domain", "AllServiceDomain\AllService.Domain.csproj", "{7236D004-0576-4A19-8DB8-0E31AA326C20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AllService.Domain", "AllService.Domain\AllService.Domain.csproj", "{7236D004-0576-4A19-8DB8-0E31AA326C20}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AllService.Interface", "AllService.Interface\AllService.Interface.csproj", "{13C4DDC7-D4CF-4300-89D5-C5B57D60C07F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AllService.Repository", "AllService.Repository\AllService.Repository.csproj", "{45400DB4-13E5-4769-9CB5-0A03A43EEE07}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AllService.WebApi", "AllService.WebApi_\AllService.WebApi.csproj", "{C4A4DA51-41EE-4194-890B-4828F086105E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AllService.WebApi", "AllService.WebApi\AllService.WebApi.csproj", "{C4A4DA51-41EE-4194-890B-4828F086105E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

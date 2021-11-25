@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ederson\\source\\AllService\\AllService_Entity\\AllServiceDomain\\AllService.Domain.csproj": {}
+    "D:\\Ederson\\source\\AllService\\AllService_Entity\\AllService.Domain\\AllService.Domain.csproj": {}
   },
   "projects": {
-    "D:\\Ederson\\source\\AllService\\AllService_Entity\\AllServiceDomain\\AllService.Domain.csproj": {
+    "D:\\Ederson\\source\\AllService\\AllService_Entity\\AllService.Domain\\AllService.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ederson\\source\\AllService\\AllService_Entity\\AllServiceDomain\\AllService.Domain.csproj",
+        "projectUniqueName": "D:\\Ederson\\source\\AllService\\AllService_Entity\\AllService.Domain\\AllService.Domain.csproj",
         "projectName": "AllService.Domain",
-        "projectPath": "D:\\Ederson\\source\\AllService\\AllService_Entity\\AllServiceDomain\\AllService.Domain.csproj",
+        "projectPath": "D:\\Ederson\\source\\AllService\\AllService_Entity\\AllService.Domain\\AllService.Domain.csproj",
         "packagesPath": "C:\\Users\\Ederson\\.nuget\\packages\\",
-        "outputPath": "D:\\Ederson\\source\\AllService\\AllService_Entity\\AllServiceDomain\\obj\\",
+        "outputPath": "D:\\Ederson\\source\\AllService\\AllService_Entity\\AllService.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
