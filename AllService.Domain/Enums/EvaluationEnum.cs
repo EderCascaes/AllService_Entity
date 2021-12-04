@@ -1,14 +1,14 @@
 ﻿
 
-namespace AllService.Domain.Enums
+namespace AllService.Domain
 {
     public enum EvaluationEnum
     {
-        Pessimo =   -3,     //Bad
-        Ruim    =   -2,     //Terrible
-        Regular =    0,     //Regular
-        Bom     =    2,     //Good
-        Otimo   =    3,     //Excellent
+        Bad =       -3,    //Pessimo
+        Terrible =  -2,    //Ruim
+        Regular =    0,    //Regular
+        Good =       2,    //Bom
+        Excellent =  3,    //otimo
 
     }
 }

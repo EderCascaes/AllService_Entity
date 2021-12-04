@@ -1,7 +1,7 @@
 ﻿
 namespace AllService.Domain
 {
-    public class ContractedSevice
+    public class Service: BaseEntity
     {
         public string ContrtactorId { get; set; }
         public string ServiceProvaiderId { get; set; }

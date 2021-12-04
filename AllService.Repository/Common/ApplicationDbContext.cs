@@ -3,11 +3,14 @@ using Microsoft.EntityFrameworkCore;
 
 
 
+
+
 namespace AllService.Repository
 {
     public class ApplicationDbContext: DbContext
     {
-        public virtual DbSet<Cidade> cidades { get; set; }
+        public virtual DbSet<City> Cities { get; set; }
+        public virtual DbSet<DescriptionService> DescriptionsService { get; set; }
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
