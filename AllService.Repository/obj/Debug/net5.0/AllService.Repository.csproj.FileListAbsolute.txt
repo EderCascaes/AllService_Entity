@@ -15,3 +15,6 @@ D:\Ederson\source\AllService\AllService_Entity\AllService.Repository\obj\Debug\n
 D:\Ederson\source\AllService\AllService_Entity\AllService.Repository\obj\Debug\net5.0\AllService.Repository.dll
 D:\Ederson\source\AllService\AllService_Entity\AllService.Repository\obj\Debug\net5.0\ref\AllService.Repository.dll
 D:\Ederson\source\AllService\AllService_Entity\AllService.Repository\obj\Debug\net5.0\AllService.Repository.pdb
+D:\Ederson\source\AllService\AllService_Entity\AllService.Repository\bin\Debug\net5.0\AllService.Repository.runtimeconfig.json
+D:\Ederson\source\AllService\AllService_Entity\AllService.Repository\bin\Debug\net5.0\AllService.Repository.runtimeconfig.dev.json
+D:\Ederson\source\AllService\AllService_Entity\AllService.Repository\obj\Debug\net5.0\AllService.Repository.genruntimeconfig.cache

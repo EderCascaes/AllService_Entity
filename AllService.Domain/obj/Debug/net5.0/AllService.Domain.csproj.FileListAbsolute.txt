@@ -21,3 +21,4 @@ D:\Ederson\source\AllService\AllService_Entity\AllService.Domain\obj\Debug\net5.
 D:\Ederson\source\AllService\AllService_Entity\AllService.Domain\obj\Debug\net5.0\AllService.Domain.dll
 D:\Ederson\source\AllService\AllService_Entity\AllService.Domain\obj\Debug\net5.0\ref\AllService.Domain.dll
 D:\Ederson\source\AllService\AllService_Entity\AllService.Domain\obj\Debug\net5.0\AllService.Domain.pdb
+D:\Ederson\source\AllService\AllService_Entity\AllService.Domain\obj\Debug\net5.0\AllService.Domain.csproj.AssemblyReference.cache

@@ -9,8 +9,8 @@ namespace AllService.Domain
     public abstract class BaseEntity
     {
         public int Id { get; set; }
-        public DateTime CriadoEm { get; set; }
-        public bool Ativo { get; set; }
+        public DateTime CreatedIn { get; set; }
+        public bool Active { get; set; }
 
     }
 }

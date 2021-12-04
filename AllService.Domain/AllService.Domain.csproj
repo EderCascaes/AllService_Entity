@@ -6,9 +6,7 @@
 
   <ItemGroup>
     <Folder Include="Dtos\" />
-    <Folder Include="Entitys\" />
     <Folder Include="Interfaces\" />
-    <Folder Include="Enums\" />
   </ItemGroup>
 
 </Project>
